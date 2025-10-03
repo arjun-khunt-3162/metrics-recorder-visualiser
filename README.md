@@ -1,7 +1,7 @@
 
 # Metrics Recorder & Visualiser (Windows)
 
-![Screenshot of Dashboard](assets\images\Demo-01.png)
+![Screenshot of Dashboard](assets/images/Demo-01.png)
 
 ## Steps to Run
 
