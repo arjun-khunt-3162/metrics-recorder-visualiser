@@ -1,0 +1,10 @@
+apiVersion: 1
+
+datasources:
+  - name: Prometheus
+    type: prometheus
+    uid: DS_Default_Prometheus  
+    url: http://localhost:9090
+    editable: true
+    jsonData:
+      timeInterval: 5s  # Optional, set the time interval for Prometheus queries
